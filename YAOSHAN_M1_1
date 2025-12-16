@@ -1,0 +1,23 @@
+{
+"artifact_type_identified": "玉器 jade",
+"id": "M1:1",
+"original_text": "珠 4 件。分为腰鼓形和半球形两种。\n腰鼓形珠1件（M1：1）。上下两端圆弧，对钻孔。长1.5、直径0.9、孔径0.5厘米（图三〇；彩图23）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:1" },
+"P103 was intended for (器物功能)": { "E55 Type": "装饰功能" },
+"P106 was found by (发掘活动)": { "E7 Activity": null },
+"P108 was produced by (制作活动)": { "E12 Production": null },
+"P108i was produced by (工艺特征单元)": { "E12 Production": { "P32 used general technique": { "E55 Type": { "钻孔技法": "对钻孔", "切割技法": "弧线状切割痕" } } } },
+"P14 carried out by (制作者)": { "E39 Actor": null },
+"P2 has type (玉器类别)": { "E55 Type": "佩饰类" },
+"P2 has type (器型单元)": { "E55 Type": "玉珠 / 大珠 / 小玉珠 / 鼓形珠 / 腰鼓形珠" },
+"P4 has time-span (制作年代)": { "E52 Time-Span": null },
+"P43 has dimension (量度信息)": { "E54 Dimension": { "长度": "1.5厘米", "直径": "0.9厘米", "孔径": "0.5厘米" } },
+"P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": null } } },
+"P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": null } } },
+"P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "体扁平微凹，平面略呈倒梯形。上端中间尖凸，下端凸榫上均等对钻 3 个小圆孔。" } } },
+"P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" },
+"P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
+"P7 took place at (制作地点)": { "E53 Place": null }
+}
+}
