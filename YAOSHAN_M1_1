@@ -1,3 +1,4 @@
+M1:1：玉器
 {
 "artifact_type_identified": "玉器 jade",
 "id": "M1:1",
@@ -16,6 +17,429 @@
 "P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": null } } },
 "P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": null } } },
 "P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "体扁平微凹，平面略呈倒梯形。上端中间尖凸，下端凸榫上均等对钻 3 个小圆孔。" } } },
+"P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" },
+"P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
+"P7 took place at (制作地点)": { "E53 Place": null }
+}
+}
+M1:2：玉器
+{
+"artifact_type_identified": "玉器 jade",
+"id": "M1:2",
+"original_text": "管 15 件。多为圆柱形，中间对钻孔。\nM1：2，长1.2、直径1、孔径0.4厘米（图三〇；彩图23）。",
+"E22 Man-Made Object": { "P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:2" }, "P103 was intended for (器物功能)": { "E55 Type": "装饰功能" }, "P106 was found by (发掘活动)": { "E7 Activity": null }, "P108 was produced by (制作活动)": { "E12 Production": null }, "P108i was produced by (工艺特征单元)": { "E12 Production": { "P32 used general technique": { "E55 Type": { "切割技法": "弧线状切割痕", "钻孔技法": "中间对钻孔" } } } }, "P14 carried out by (制作者)": { "E39 Actor": null }, "P2 has type (玉器类别)": { "E55 Type": "佩饰类" }, "P2 has type (器型单元)": { "E55 Type": "玉管 / 琮式管 / 长管" }, "P4 has time-span (制作年代)": { "E52 Time-Span": null }, "P43 has dimension (量度信息)": { "E54 Dimension": { "长度": "1.2厘米", "直径": "1厘米", "孔径": "0.4厘米" } }, "P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": null } } }, "P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": null } } }, "P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "圆柱形" } } }, "P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" }, "P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } }, "P7 took place at (制作地点)": { "E53 Place": null } }
+}
+M1:3：玉器
+{
+"artifact_type_identified": "玉器 jade",
+"id": "M1:3",
+"original_text": "冠形器 1 件（M1：3）。体扁薄，平面略呈倒梯形，上端稍宽，中间有两道凹缺，使中央呈圆弧状凸起，下端均等对钻 3 个小孔，其中一孔已残。高 2.5、宽 4.5~4.8、厚 0.2 厘米（图二五；彩图 11）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:3" },
+"P103 was intended for (器物功能)": { "E55 Type": null },
+"P106 was found by (发掘活动)": { "E7 Activity": null },
+"P108 was produced by (制作活动)": { "E12 Production": null },
+"P108i was produced by (工艺特征单元)": { "E12 Production": { "P32 used general technique": { "E55 Type": { "钻孔技法": "均等对钻 3 个小孔", "切割技法": "两道凹缺" } } } },
+"P14 carried out by (制作者)": { "E39 Actor": null },
+"P2 has type (玉器类别)": { "E55 Type": "佩饰类" },
+"P2 has type (器型单元)": { "E55 Type": "冠状器" },
+"P4 has time-span (制作年代)": { "E52 Time-Span": null },
+"P43 has dimension (量度信息)": { "E54 Dimension": { "高": "2.5厘米", "宽": "4.5~4.8厘米", "厚": "0.2厘米" } },
+"P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": null } } },
+"P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": null } } },
+"P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "体扁薄，平面略呈倒梯形，上端稍宽，中间有两道凹缺，使中央呈圆弧状凸起，下端均等对钻 3 个小孔" } } },
+"P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" },
+"P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
+"P7 took place at (制作地点)": { "E53 Place": null }
+}
+}
+M1:4：玉器
+{
+"artifact_type_identified": "玉器 jade",
+"id": "M1:4",
+"original_text": "管串1组（M1：4）。由27件管组成，其中5件略残损。圆柱形，双向对钻孔。长\u00a01.2~1.9、直径0.8~0.9厘米。此组管串出土时与M1：5玉璜相连，两者应为成组器物（图二九；彩图17）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:4" },
+"P103 was intended for (器物功能)": { "E55 Type": "装饰功能" },
+"P106 was found by (发掘活动)": { "E7 Activity": null },
+"P108 was produced by (制作活动)": { "E12 Production": null },
+"P108i was produced by (工艺特征单元)": { "E12 Production": { "P32 used general technique": { "E55 Type": { "切割技法": "双向对钻孔", "钻孔技法": "双向对钻孔" } } } },
+"P14 carried out by (制作者)": { "E39 Actor": null },
+"P2 has type (玉器类别)": { "E55 Type": "佩饰类" },
+"P2 has type (器型单元)": { "E55 Type": "管" },
+"P4 has time-span (制作年代)": { "E52 Time-Span": null },
+"P43 has dimension (量度信息)": { "E54 Dimension": { "长度": "1.2~1.9厘米", "直径": "0.8~0.9厘米" } },
+"P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": null } } },
+"P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": null } } },
+"P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "圆柱形，双向对钻孔" } } },
+"P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" },
+"P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
+"P7 took place at (制作地点)": { "E53 Place": null }
+}
+}
+M1:5：玉器
+{
+"artifact_type_identified": "玉器 jade",
+"id": "M1:5",
+"original_text": "璜2件。\nM1：5，有灰褐色斑斑，素面。平面呈半壁形，上端中部有半圆形凹缺，左、右两侧各对钻1个小圆孔，底端圆弧。整器边缘薄而中部厚。顶端及平面各有一道细线状切割痕。高4.2、宽10.1、厚0.55厘米（图二八；彩图15）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:5" },
+"P103 was intended for (器物功能)": { "E55 Type": "佩饰类" },
+"P106 was found by (发掘活动)": { "E7 Activity": null },
+"P108 was produced by (制作活动)": { "E12 Production": null },
+"P108i was produced by (工艺特征单元)": { "E12 Production": { "P32 used general technique": { "E55 Type": { "切割技法": "细线状切割痕", "钻孔技法": "对钻孔" } } } },
+"P14 carried out by (制作者)": { "E39 Actor": null },
+"P2 has type (玉器类别)": { "E55 Type": "佩饰类" },
+"P2 has type (器型单元)": { "E55 Type": "璜" },
+"P4 has time-span (制作年代)": { "E52 Time-Span": null },
+"P43 has dimension (量度信息)": { "E54 Dimension": { "高": "4.2厘米", "宽": "10.1厘米", "厚": "0.55厘米" } },
+"P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": "沁蚀较甚" } } },
+"P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": "有灰褐色斑斑" } } },
+"P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "平面呈半壁形，上端中部有半圆形凹缺，左、右两侧各对钻1个小圆孔，底端圆弧，整器边缘薄而中部厚" } } },
+"P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" },
+"P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": "素面" } } },
+"P7 took place at (制作地点)": { "E53 Place": null }
+}
+}
+M1:6：玉器
+{
+"artifact_type_identified": "玉器 jade",
+"id": "M1:6",
+"original_text": "管 15 件。多为圆柱形，中间对钻孔。\nM1：2，长1.2、直径1、孔径0.4厘米（图三〇；彩图23）。\nM1：6，长3、直径1.2、孔径0.6厘米（图三〇；彩图24）。\nM1：10，横断面略呈三棱形。长1.9、直径1.1、孔径0.6厘米（图三〇；彩图24）。\nM1: 11，器表及一端面上有弧线状切割痕。长2.1、直径1.1、孔径0.6厘米（图三○；彩图24）。\nM1：14，长1、直径0.9、孔径0.45厘米（图三〇；彩图23）。\nM1: 16, 一端面上有弧线状切割痕。长2、直径1.1、孔径0.5厘米（图三○；彩图24）。\nM1：17，器表及一端面上有切割痕。长1.9、直径1、孔径0.4厘米（图三○；彩图24）。\nM1：18，长1.9、直径1、孔径0.45厘米（图三〇；彩图24）。\nM1：19，长1.3、直径0.9、孔径0.5厘米（图三〇；彩图23）。\nM1：20，长1.1、直径0.6、孔径0.3厘米（图三〇；彩图23）。\nM1：21,双向钻孔后切割断，所以呈单向钻孔形态，切割面有弧线状切割痕。长1.3、直径1、孔径0.6厘米（图三〇；彩图25）。\nM1：22，器表有一处凹陷的切割痕。长1.2、直径0.8、孔径0.45厘米（图三○；彩图25）\nM1：23，长1.1、直径0.9、孔径0.6厘米（图三〇；彩图25）。\nM1：28，长1.2、直径0.7、孔径0.4厘米（图三〇；彩图25）。\nM1：29，长1.5、直径0.8、孔径0.45厘米（图三〇；彩图25）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:6" },
+"P103 was intended for (器物功能)": { "E55 Type": null },
+"P106 was found by (发掘活动)": { "E7 Activity": null },
+"P108 was produced by (制作活动)": { "E12 Production": null },
+"P108i was produced by (工艺特征单元)": { "E12 Production": { "P32 used general technique": { "E55 Type": { "钻孔技法": "中间对钻孔", "切割技法": "弧线状切割痕" } } } },
+"P14 carried out by (制作者)": { "E39 Actor": null },
+"P2 has type (玉器类别)": { "E55 Type": "佩饰类" },
+"P2 has type (器型单元)": { "E55 Type": "玉管" },
+"P4 has time-span (制作年代)": { "E52 Time-Span": null },
+"P43 has dimension (量度信息)": { "E54 Dimension": { "长度": "3cm", "直径": "1.2cm", "孔径": "0.6cm" } },
+"P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": null } } },
+"P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": null } } },
+"P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "圆柱形" } } },
+"P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" },
+"P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
+"P7 took place at (制作地点)": { "E53 Place": null }
+}
+}
+M1:7：陶器
+{
+"artifact_type_identified": "陶器 pottery",
+"id": "M1:7",
+"original_text": "珠 4 件。分为腰鼓形和半球形两种。\n腰鼓形珠1件（M1：1）。上下两端圆弧，对钻孔。长1.5、直径0.9、孔径0.5厘米（图三〇；彩图23）。\n半球形珠 3件。平直的一面有隧孔。\nM1:7，平面有弧线状切割痕。厚0.8、直径1.1厘米（图三〇；彩图27）。\nM1:8，厚0.9、直径1.2厘米（图三〇；彩图27）。\nM1:9，平面有弧线状切割痕。厚1、直径1.2厘米（图三O；彩图27）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": {
+"E41 Appellation": "M1:7"
+},
+"P1 is identified by (器物名称)": {
+"E41 Appellation": null
+},
+"P45 consists of (材质)": {
+"E57 Material": {
+"P1 is identified by (陶土种类)": {
+"E55 Type": null
+},
+"cultural_feature (掺杂物)": {
+"E57 Material": null
+}
+}
+},
+"P2 has type (保存状况)": {
+"E55 Type": null
+},
+"P2 has type (完整程度)": {
+"E55 Type": null
+},
+"P2 has type (陶土细腻程度)": {
+"E55 Type": null
+},
+"P2 has type (基本器型)": {
+"E55 Type": "珠"
+},
+"P46 is composed of (器型部位特征)": {
+"E26 Physical Feature": {
+"P2 has type": {
+"E55 Type": "半球形"
+}
+}
+},
+"P46 is composed of (器物组合)": {
+"E19 Physical Object": {
+"P2 has type": {
+"E55 Type": null
+}
+}
+},
+"P43 has dimension (基本尺寸)": {
+"E54 Dimension": {
+"厚度": "0.8 cm",
+"直径": "1.1 cm"
+}
+},
+"P43 has dimension (硬度)": {
+"E54 Dimension": null
+},
+"P103 was intended for (器物功能)": {
+"E55 Type": null
+},
+"P108i was produced by (成型工艺)": {
+"E12 Production": {
+"P32 used general technique": {
+"E55 Type": null
+}
+}
+},
+"P108i was produced by (修整技术)": {
+"E12 Production": {
+"P32 used specific technique": {
+"E55 Type": "平面有弧线状切割痕"
+}
+}
+},
+"P108i was produced by (装饰手法)": {
+"E12 Production": {
+"P32 used specific technique": {
+"E55 Type": null
+}
+}
+},
+"P108i was produced by (烧成温度)": {
+"E12 Production": {
+"P32 used specific technique": {
+"E55 Type": null
+}
+}
+},
+"P108 was produced by (制作活动)": {
+"E12 Production": null
+},
+"P65 shows visual item (纹饰类型)": {
+"E36 Visual Item": {
+"P2 has type": {
+"E55 Type": null
+}
+}
+},
+"P4 has time-span (制作年代)": {
+"E52 Time-Span": null
+},
+"P7 took place at (制作地点)": {
+"E53 Place": null
+},
+"P53 has former or current location (原始出土地点)": {
+"E25 Man-Made Feature": null
+},
+"P14 carried out by (制作者)": {
+"E39 Actor": null
+}
+}
+}
+M1:8：陶器
+{
+"artifact_type_identified": "陶器 pottery",
+"id": "M1:8",
+"original_text": "珠 4 件。分为腰鼓形和半球形两种。\n腰鼓形珠1件（M1：1）。上下两端圆弧，对钻孔。长1.5、直径0.9、孔径0.5厘米（图三〇；彩图23）。\n半球形珠 3件。平直的一面有隧孔。\nM1:7，平面有弧线状切割痕。厚0.8、直径1.1厘米（图三〇；彩图27）。\nM1:8，厚0.9、直径1.2厘米（图三〇；彩图27）。\nM1:9，平面有弧线状切割痕。厚1、直径1.2厘米（图三O；彩图27）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": {
+"E41 Appellation": "M1:8"
+},
+"P1 is identified by (器物名称)": {
+"E41 Appellation": null
+},
+"P45 consists of (材质)": {
+"E57 Material": {
+"P1 is identified by (陶土种类)": {
+"E55 Type": null
+},
+"cultural_feature (掺杂物)": {
+"E57 Material": null
+}
+}
+},
+"P2 has type (保存状况)": {
+"E55 Type": null
+},
+"P2 has type (完整程度)": {
+"E55 Type": null
+},
+"P2 has type (陶土细腻程度)": {
+"E55 Type": null
+},
+"P2 has type (基本器型)": {
+"E55 Type": "珠"
+},
+"P46 is composed of (器型部位特征)": {
+"E26 Physical Feature": {
+"P2 has type": {
+"E55 Type": "半球形"
+}
+}
+},
+"P46 is composed of (器物组合)": {
+"E19 Physical Object": {
+"P2 has type": {
+"E55 Type": null
+}
+}
+},
+"P43 has dimension (基本尺寸)": {
+"E54 Dimension": {
+"厚度": "0.9厘米",
+"直径": "1.2厘米"
+}
+},
+"P43 has dimension (硬度)": {
+"E54 Dimension": null
+},
+"P103 was intended for (器物功能)": {
+"E55 Type": null
+},
+"P108i was produced by (成型工艺)": {
+"E12 Production": {
+"P32 used general technique": {
+"E55 Type": null
+}
+}
+},
+"P108i was produced by (修整技术)": {
+"E12 Production": {
+"P32 used specific technique": {
+"E55 Type": null
+}
+}
+},
+"P108i was produced by (装饰手法)": {
+"E12 Production": {
+"P32 used specific technique": {
+"E55 Type": null
+}
+}
+},
+"P108i was produced by (烧成温度)": {
+"E12 Production": {
+"P32 used specific technique": {
+"E55 Type": null
+}
+}
+},
+"P108 was produced by (制作活动)": {
+"E12 Production": null
+},
+"P65 shows visual item (纹饰类型)": {
+"E36 Visual Item": {
+"P2 has type": {
+"E55 Type": null
+}
+}
+},
+"P4 has time-span (制作年代)": {
+"E52 Time-Span": null
+},
+"P7 took place at (制作地点)": {
+"E53 Place": null
+},
+"P53 has former or current location (原始出土地点)": {
+"E25 Man-Made Feature": null
+},
+"P14 carried out by (制作者)": {
+"E39 Actor": null
+}
+}
+}
+M1:9：陶器
+{
+"artifact_type_identified": "陶器 pottery",
+"id": "M1:9",
+"original_text": "珠 4 件。分为腰鼓形和半球形两种。\n腰鼓形珠1件（M1：1）。上下两端圆弧，对钻孔。长1.5、直径0.9、孔径0.5厘米（图三〇；彩图23）。\n半球形珠 3件。平直的一面有隧孔。\nM1:7，平面有弧线状切割痕。厚0.8、直径1.1厘米（图三〇；彩图27）。\nM1:8，厚0.9、直径1.2厘米（图三〇；彩图27）。\nM1:9，平面有弧线状切割痕。厚1、直径1.2厘米（图三O；彩图27）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:9" },
+"P1 is identified by (器物名称)": { "E41 Appellation": null },
+"P45 consists of (材质)": {
+"E57 Material": {
+"P1 is identified by (陶土种类)": { "E55 Type": null },
+"cultural_feature (掺杂物)": { "E57 Material": null }
+}
+},
+"P2 has type (保存状况)": { "E55 Type": null },
+"P2 has type (完整程度)": { "E55 Type": null },
+"P2 has type (陶土细腻程度)": { "E55 Type": null },
+"P2 has type (基本器型)": { "E55 Type": "珠" },
+"P46 is composed of (器型部位特征)": {
+"E26 Physical Feature": {
+"P2 has type": {
+"E55 Type": "半球形"
+}
+}
+},
+"P46 is composed of (器物组合)": {
+"E19 Physical Object": {
+"P2 has type": {
+"E55 Type": null
+}
+}
+},
+"P43 has dimension (基本尺寸)": {
+"E54 Dimension": {
+"厚度": "1厘米",
+"直径": "1.2厘米"
+}
+},
+"P43 has dimension (硬度)": { "E54 Dimension": null },
+"P103 was intended for (器物功能)": { "E55 Type": null },
+"P108i was produced by (成型工艺)": {
+"E12 Production": {
+"P32 used general technique": {
+"E55 Type": null
+}
+}
+},
+"P108i was produced by (修整技术)": {
+"E12 Production": {
+"P32 used specific technique": {
+"E55 Type": "平面有弧线状切割痕"
+}
+}
+},
+"P108i was produced by (装饰手法)": {
+"E12 Production": {
+"P32 used specific technique": { "E55 Type": null }
+}
+},
+"P108i was produced by (烧成温度)": {
+"E12 Production": {
+"P32 used specific technique": { "E55 Type": null }
+}
+},
+"P108 was produced by (制作活动)": { "E12 Production": null },
+"P65 shows visual item (纹饰类型)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
+"P4 has time-span (制作年代)": { "E52 Time-Span": null },
+"P7 took place at (制作地点)": { "E53 Place": null },
+"P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": null },
+"P14 carried out by (制作者)": { "E39 Actor": null }
+}
+}
+M1:10：玉器
+{
+"artifact_type_identified": "玉器 jade",
+"id": "M1:10",
+"original_text": "管 15 件。多为圆柱形，中间对钻孔。\nM1：2，长1.2、直径1、孔径0.4厘米（图三〇；彩图23）。\nM1：6，长3、直径1.2、孔径0.6厘米（图三〇；彩图24）。\nM1：10，横断面略呈三棱形。长1.9、直径1.1、孔径0.6厘米（图三〇；彩图24）。\nM1: 11，器表及一端面上有弧线状切割痕。长2.1、直径1.1、孔径0.6厘米（图三○；彩图24）。\nM1：14，长1、直径0.9、孔径0.45厘米（图三〇；彩图23）。\nM1: 16, 一端面上有弧线状切割痕。长2、直径1.1、孔径0.5厘米（图三○；彩图24）。\nM1：17，器表及一端面上有切割痕。长1.9、直径1、孔径0.4厘米（图三○；彩图24）。\nM1：18，长1.9、直径1、孔径0.45厘米（图三〇；彩图24）。\nM1：19，长1.3、直径0.9、孔径0.5厘米（图三〇；彩图23）。\nM1：20，长1.1、直径0.6、孔径0.3厘米（图三〇；彩图23）。\nM1：21,双向钻孔后切割断，所以呈单向钻孔形态，切割面有弧线状切割痕。长1.3、直径1、孔径0.6厘米（图三〇；彩图25）。\nM1：22，器表有一处凹陷的切割痕。长1.2、直径0.8、孔径0.45厘米（图三○；彩图25）\nM1：23，长1.1、直径0.9、孔径0.6厘米（图三〇；彩图25）。\nM1：28，长1.2、直径0.7、孔径0.4厘米（图三〇；彩图25）。\nM1：29，长1.5、直径0.8、孔径0.45厘米（图三〇；彩图25）。",
+"E22 Man-Made Object": {
+"P1 is identified by (人工物品编号)": { "E41 Appellation": "M1:10" },
+"P103 was intended for (器物功能)": { "E55 Type": "装饰功能" },
+"P106 was found by (发掘活动)": { "E7 Activity": null },
+"P108 was produced by (制作活动)": { "E12 Production": null },
+"P108i was produced by (工艺特征单元)": { "E12 Production": { "P32 used general technique": { "E55 Type": { "钻孔技法": "中间对钻孔", "切割技法": "横断面略呈三棱形" } } } },
+"P14 carried out by (制作者)": { "E39 Actor": null },
+"P2 has type (玉器类别)": { "E55 Type": "佩饰类" },
+"P2 has type (器型单元)": { "E55 Type": "玉管" },
+"P4 has time-span (制作年代)": { "E52 Time-Span": null },
+"P43 has dimension (量度信息)": { "E54 Dimension": { "长度": "1.9厘米", "直径": "1.1厘米", "孔径": "0.6厘米" } },
+"P44 has condition (沁色单元)": { "E3 Condition State": { "P2 has type (沁色类型)": { "E55 Type": null } } },
+"P45 consists of (材质单元)": { "E57 Material": { "P1 is identified by (玉料种类)": { "E55 Type": null }, "P3 has note (玉料颜色与透明度)": { "E62 String": null } } },
+"P46 is composed of (整体形态描述)": { "E26 Physical Feature": { "P2 has type": { "E55 Type": "圆柱形，横断面略呈三棱形" } } },
 "P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": "M1" },
 "P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
 "P7 took place at (制作地点)": { "E53 Place": null }
