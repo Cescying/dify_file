@@ -20,7 +20,7 @@
 "P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
 "P7 took place at (制作地点)": { "E53 Place": null }
 }
-}
+},
 {
 "artifact_type_identified": "玉器 jade",
 "id": "M1:2",
@@ -49,7 +49,7 @@
 "P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
 "P7 took place at (制作地点)": { "E53 Place": null }
 }
-}
+},
 
 {
 "artifact_type_identified": "玉器 jade",
@@ -73,7 +73,7 @@
 "P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
 "P7 took place at (制作地点)": { "E53 Place": null }
 }
-}
+},
 
 {
 "artifact_type_identified": "玉器 jade",
@@ -97,7 +97,7 @@
 "P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": "素面" } } },
 "P7 took place at (制作地点)": { "E53 Place": null }
 }
-}
+},
 
 {
 "artifact_type_identified": "玉器 jade",
@@ -121,7 +121,7 @@
 "P65 shows visual item (纹饰单元)": { "E36 Visual Item": { "P2 has type": { "E55 Type": null } } },
 "P7 took place at (制作地点)": { "E53 Place": null }
 }
-}
+},
 
 {
 "artifact_type_identified": "陶器 pottery",
@@ -233,7 +233,7 @@
 "E39 Actor": null
 }
 }
-}
+},
 
 {
 "artifact_type_identified": "陶器 pottery",
@@ -345,7 +345,7 @@
 "E39 Actor": null
 }
 }
-}
+},
 
 {
 "artifact_type_identified": "陶器 pottery",
@@ -417,7 +417,7 @@
 "P53 has former or current location (原始出土地点)": { "E25 Man-Made Feature": null },
 "P14 carried out by (制作者)": { "E39 Actor": null }
 }
-}
+},
 
 {
 "artifact_type_identified": "玉器 jade",
